@@ -20,7 +20,7 @@
 - taxonomy: 安全相关
   icon: far fa-star
   links: 
-      - title: 人员定位
+    - title: 人员定位
       logo: 开源中国.jpg
       url: http://112.6.232.107:31185/realtimeLocation_2d
       description: 人员定位系统
