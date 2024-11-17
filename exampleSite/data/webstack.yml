@@ -31,6 +31,9 @@
       logo: 
       url: http://112.6.232.107:8070/BPM/Home/index.aspx?ReturnUrl=%2fBPM%2f
       description: 电子作业票
+- taxonomy: 测试
+  icon: far fa-star
+  links: 
     - title: 语雀
       logo: 语雀.webp
       url: https://www.yuque.com/
