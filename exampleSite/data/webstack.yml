@@ -1,6 +1,6 @@
 ---
 
-- taxonomy: 办公系统
+- taxonomy: 常用推荐
   icon: far fa-star
   links: 
     - title: MES系统
@@ -15,11 +15,6 @@
       logo: 微信公众号.png
       url: http://10.20.194.5:85/tplus/view/login.html
       description: 畅捷通T+
-
-
-- taxonomy: 安全相关
-  icon: far fa-star
-  links: 
     - title: 人员定位
       logo: 开源中国.jpg
       url: http://112.6.232.107:31185/realtimeLocation_2d
@@ -36,20 +31,6 @@
       logo: 知乎.png
       url: http://112.6.232.107:8070/BPM/Home/index.aspx?ReturnUrl=%2fBPM%2f
       description: 电子作业票
-    - title: V2EX
-      logo: v2ex.jpg
-      url: https://www.v2ex.com/
-      description: V2EX 创意工作者的社区。
-    - title: 关注我们
-      logo: 关注.jpg
-      url: https://www.bioitee.com
-      qrcode: qrcode.jpg
-      description: 微信公众号：BioIT 爱好者！
-
-
-- taxonomy: 常用推荐
-  icon: far fa-star
-  links: 
     - title: 语雀
       logo: 语雀.webp
       url: https://www.yuque.com/
