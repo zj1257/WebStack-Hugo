@@ -35,8 +35,8 @@ publishDir            = "public"				# 站点静态文件保存目录
 
 [params.images]
     favicon           = "assets/images/bi-favicon.png"
-    searchImageL      = "assets/images/bg-dna.jpg"		# 搜索部分浅色背景图
-    searchImageD      = "assets/images/bg-dna.jpg"		# 搜索部分深色背景图
+    searchImageL      = "https://pic2.ziyuan.wang/user/vsorg/2024/11/bg-dna_4a801804e74bf.jpg"		# 搜索部分浅色背景图
+    searchImageD      = "https://pic2.ziyuan.wang/user/vsorg/2024/11/bg-dna_4a801804e74bf.jpg"		# 搜索部分深色背景图
     logoExpandLight   = "assets/images/bi-expand-dark.png"
     logoExpandDark    = "assets/images/bi-expand-light.png"
     logoCollapseLight = "assets/images/bi.png"

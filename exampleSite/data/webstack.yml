@@ -4,11 +4,11 @@
   icon: far fa-star
   links: 
     - title: MES系统
-      logo: 
+      logo: https://pic2.ziyuan.wang/user/vsorg/2024/11/MES_158d19fca3d20.ico
       url: http://10.20.194.16/mes/Frame/Login.aspx
       description: 生产运行管理系统
     - title: OA系统
-      logo: 
+      logo: https://pic2.ziyuan.wang/user/vsorg/2024/11/OA_bdad5c2c99d5e.ico
       url: http://112.6.232.107:8989/
       description: 自动化办公系统
     - title: T+
