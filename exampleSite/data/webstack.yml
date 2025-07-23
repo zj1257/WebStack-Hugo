@@ -3,6 +3,37 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
+    - title: MES系统
+      logo: https://pic2.ziyuan.wang/user/vsorg/2024/11/MES_259159ab01fa0.ico
+      url: http://10.20.194.16/mes/Frame/Login.aspx
+      description: 生产运行管理系统
+    - title: OA系统
+      logo: https://pic2.ziyuan.wang/user/vsorg/2024/11/OA_bdad5c2c99d5e.ico
+      url: http://112.6.232.107:8989/
+      description: 自动化办公系统
+    - title: T+
+      logo: 
+      url: http://10.20.194.5:85/tplus/view/login.html
+      description: 畅捷通T+
+    - title: 人员定位
+      logo: 
+      url: http://112.6.232.107:31185/realtimeLocation_2d
+      description: 人员定位系统
+    - title: LDAR
+      logo: github.png
+      url: http://47.104.220.153:19211/LDAR/a?login
+      description: 
+    - title: 环保在线监测（新）
+      logo: 
+      url: http://219.146.185.5:8006/Login.aspx
+      description: 环保在线监测（新）
+    - title: 电子作业票
+      logo: 
+      url: http://112.6.232.107:8070/BPM/Home/index.aspx?ReturnUrl=%2fBPM%2f
+      description: 电子作业票
+- taxonomy: 测试
+  icon: far fa-star
+  links: 
     - title: 语雀
       logo: 语雀.webp
       url: https://www.yuque.com/

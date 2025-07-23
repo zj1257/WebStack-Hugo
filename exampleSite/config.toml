@@ -9,12 +9,12 @@ publishDir            = "public"				# 站点静态文件保存目录
 
 
 [params]
-    author        = "shenweiyan"
-    description   = "Webstack-Hugo 网址导航 | Hugo 主题 BY Bio IT 爱好者"
+    author        = "zj1257"
+    description   = "Webstack-Hugo 网址导航 | Hugo 主题"
     upload        = "https://www.yuque.com/forms/share/1a1fee15-f7a9-4ee6-9dd4-b0ba9fef1871"      # 左侧导航栏的"网站提交"
-    about         = "https://github.com/shenweiyan/Knowledge-Garden/discussions/10"	          # 左侧导航栏的"关于导航"页面(./about)
-    repository    = "https://github.com/shenweiyan/WebStack-Hugo"  
-    enablePreLoad = true					# 网站完全打开前预加载动画
+    about         = "https://github.com/zj1257/Knowledge-Garden/discussions/10"	          # 左侧导航栏的"关于导航"页面(./about)
+    repository    = "https://github.com/zj1257/WebStack-Hugo"  
+    enablePreLoad = false					# 网站完全打开前预加载动画
     textPreLoad   = "Hugo 网址导航主题"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = false					# 默认展开左侧边导航栏
     logosPath     = "assets/images/logos"			# 网站每个导航地址logo存放地址
@@ -24,8 +24,8 @@ publishDir            = "public"				# 站点静态文件保存目录
     fancybox      = true                                        # 使用 Fancybox 实现图片灯箱/放大功能
 
 [params.seo]    
-    baiduhmid       = 'efccc04cb44fc49faddac5876180b369'	# 百度统计 hm.src 的 ID
-    baiduSiteVer    = 'codeva-cCAOSG8MBO'			# 百度HTML标签验证(baidu-site-verification)
+    baiduhmid       = ''	# 百度统计 hm.src 的 ID
+    baiduSiteVer    = ''			# 百度HTML标签验证(baidu-site-verification)
     tj51laid        = ''                        		# 51.LA 网站统计
     tj51lack        = ''
     GoogleAdsClient = ''					# Google AdSense 
@@ -35,8 +35,8 @@ publishDir            = "public"				# 站点静态文件保存目录
 
 [params.images]
     favicon           = "assets/images/bi-favicon.png"
-    searchImageL      = "assets/images/bg-dna.jpg"		# 搜索部分浅色背景图
-    searchImageD      = "assets/images/bg-dna.jpg"		# 搜索部分深色背景图
+    searchImageL      = "https://pic2.ziyuan.wang/user/vsorg/2024/11/bg-dna_4a801804e74bf.jpg"		# 搜索部分浅色背景图
+    searchImageD      = "https://pic2.ziyuan.wang/user/vsorg/2024/11/bg-dna_4a801804e74bf.jpg"		# 搜索部分深色背景图
     logoExpandLight   = "assets/images/bi-expand-dark.png"
     logoExpandDark    = "assets/images/bi-expand-light.png"
     logoCollapseLight = "assets/images/bi.png"
